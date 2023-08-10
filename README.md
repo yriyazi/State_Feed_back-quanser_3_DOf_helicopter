@@ -10,6 +10,14 @@ This GitHub project focuses on the analysis and control of a three-degree-of-fre
 
 2. **Simulation:** Simulating the open-loop nonlinear system using Msc Adams and Matlab Simulink.
 
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/yriyazi/State_Feed_back-quanser_3_DOf_helicopter/blob/main/Images/Simulink.png"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/yriyazi/State_Feed_back-quanser_3_DOf_helicopter/blob/main/Images/Adams.png"> 
+</p>
+
 3. **State Formulation:** Defining the equations in state-space form.
 
 4. **Stability Analysis:** Investigating Bounded Input Bounded Output (BIBO) stability using Lyapunov and marginal methods.
