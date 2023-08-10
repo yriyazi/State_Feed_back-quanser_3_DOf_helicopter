@@ -12,12 +12,12 @@ This GitHub project focuses on the analysis and control of a three-degree-of-fre
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/yriyazi/State_Feed_back-quanser_3_DOf_helicopter/blob/main/Images/Simulink.png"> 
-    <h1>simulink snapshot</h1>
+    <figcaption>simulink snapshot</figcaption>
 </p>
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/yriyazi/State_Feed_back-quanser_3_DOf_helicopter/blob/main/Images/Adams.png"> 
-    <h1>Msc Addams snapshot</h1>
+    <figcaption>Msc Addams snapshot</figcaption>
 </p>
 
 
