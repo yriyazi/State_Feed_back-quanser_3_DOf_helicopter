@@ -10,21 +10,17 @@ This GitHub project focuses on the analysis and control of a three-degree-of-fre
 
 2. **Simulation:** Simulating the open-loop nonlinear system using Msc Adams and Matlab Simulink.
 
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/yriyazi/State_Feed_back-quanser_3_DOf_helicopter/blob/main/Images/Simulink.png"> 
-    <figcaption>simulink snapshot</figcaption>
-</p>
+<figure>
+  <img src="Images/Simulink.png" alt="Description of the image">
+  <figcaption>simulink snapshot</figcaption>
+</figure>
 
 
 <figure>
-  <img src="Images/Simulink.png" alt="Description of the image">
-  <figcaption>Caption describing the image.</figcaption>
+  <img src="Images/Adams.png" alt="Description of the image">
+  <figcaption>Msc Addams snapshot</figcaption>
 </figure>
 
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/yriyazi/State_Feed_back-quanser_3_DOf_helicopter/blob/main/Images/Adams.png"> 
-    <figcaption>Msc Addams snapshot</figcaption>
-</p>
 
 
 3. **State Formulation:** Defining the equations in state-space form.
