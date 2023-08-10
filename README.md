@@ -1,7 +1,7 @@
 # Three-Degree-of-Freedom Quanser Helicopter Setup.
 **Align center:**
 <p align="center" width="100%">
-    <img width="33%" src="https://www.researchgate.net/profile/Safanah-Raafat/publication/248706211/figure/fig6/AS:668290917597188@1536344379965/Quanser-3-DOF-helicopter-23.png"> 
+    <img width="33%" src="https://www.quanser.com/wp-content/uploads/2017/03/3-DOF-Helicopter.png"> 
 </p>
 
 This GitHub project focuses on the analysis and control of a three-degree-of-freedom Quanser helicopter. The project involves several key steps:
