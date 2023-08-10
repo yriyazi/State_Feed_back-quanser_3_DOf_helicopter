@@ -12,13 +12,13 @@ This GitHub project focuses on the analysis and control of a three-degree-of-fre
 
 <figure>
   <img src="Images/Simulink.png" alt="Description of the image">
-  <figcaption>simulink snapshot</figcaption>
+  <figcaption style="text-align: center;">simulink snapshot</figcaption>
 </figure>
 
 
 <figure>
   <img src="Images/Adams.png" alt="Description of the image">
-  <figcaption>Msc Addams snapshot</figcaption>
+  <figcaption style="text-align: center;">Msc Addams snapshot</figcaption>
 </figure>
 
 
