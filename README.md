@@ -1,5 +1,7 @@
 # Three-Degree-of-Freedom Quanser Helicopter Setup
-![Alt text](Images/Quanser-3-DOF-helicopter.png)
+![plot](Images/Quanser-3-DOF-helicopter.png)
+
+
 This GitHub project focuses on the analysis and control of a three-degree-of-freedom Quanser helicopter. The project involves several key steps:
 
 1. **Equation of Motion:** Deriving the system's equations of motion using the Euler-Lagrange method.
